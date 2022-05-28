@@ -19,21 +19,24 @@
 
     <!-- site -->
     <div class="base fixed-top">
-        <hr class="bg-secondary mt-3">
         <div class="container">
 
 
 
-            <div class="text-center rounded  text-light">
-                <div class=" m-auto mt-5">
-                    <img src="img\FenixEchoRoxa.png" alt="" width="100">
-                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-earth"></i> Faça já seu orçamento.</button></a></h1>
-                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-linkedin"></i> Linkedin</button></a></h1>
-                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-instagram"></i> Instagram</button></a></h1>
-                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-github"></i> GitHub</button></a></h1>
-                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-whatsapp"></i> WhatsApp</button></a></h1>
-            
-
+            <div class="text-center rounded  text-light col-md">
+                <hr class="bg-light mt-3">
+                <div class="m-auto mt-5 border border-light rounded py-0">
+                    <img src="img\imagem.png" alt="" width="150" class="mt-3 rounded-circle border border-ligth border-3">
+                    <div class="row">
+                        <div class="col">
+                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-3"> <i class="fas fa-globe"></i> Site</a> <br>
+                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-linkedin"></i> Linkedin</a> <br>
+                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-instagram"></i> Instagram</a> <br>
+                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-github"></i> GitHub <i class="fas fa-code"></i></a> <br>
+                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-whatsapp"></i> WhatsApp</a> <br>
+                            <img src="img\FenixEchoBranca.png" alt="" width="75" class="mt-3 mb-4">
+                        </div>
+                    </div>
                 </div>
 
                 <img></img>
