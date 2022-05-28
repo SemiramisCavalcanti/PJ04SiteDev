@@ -29,11 +29,11 @@
                     <img src="img\imagem.png" alt="" width="150" class="mt-3 rounded-circle border border-ligth border-3">
                     <div class="row">
                         <div class="col">
-                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-3"> <i class="fas fa-globe"></i> Site</a> <br>
+                            <a href="https://fenixecho.com.br" class="decoration-none btn btn-outline-light rounded-pill mt-3"> <i class="fas fa-globe"></i> Site</a> <br>
                             <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-linkedin"></i> Linkedin</a> <br>
-                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-instagram"></i> Instagram</a> <br>
-                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-github"></i> GitHub <i class="fas fa-code"></i></a> <br>
-                            <a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-whatsapp"></i> WhatsApp</a> <br>
+                            <a href="https://www.instagram.com/fenix_echo_web/" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-instagram"></i> Instagram</a> <br>
+                            <a href="https://github.com/SemiramisCavalcanti" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-github"></i> GitHub <i class="fas fa-code"></i></a> <br>
+                            <a href="https://www.linkedin.com/in/semiramis-cavalcanti-01a18013b/" class="decoration-none btn btn-outline-light rounded-pill mt-2"> <i class="fab fa-whatsapp"></i> WhatsApp</a> <br>
                             <img src="img\FenixEchoBranca.png" alt="" width="75" class="mt-3 mb-4">
                         </div>
                     </div>
