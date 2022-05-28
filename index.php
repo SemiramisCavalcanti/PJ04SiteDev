@@ -39,7 +39,7 @@
                     </div>
                 </div>
 
-                <img></img>
+                <p><i class="fas fa-copyright"></i> Todos os direitos reservados FenixEcho</p>
             </div>
         </div>
 
