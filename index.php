@@ -25,13 +25,14 @@
 
 
             <div class="text-center rounded  text-light">
-                <div class=" position-absolute top-0 start-50 translate-middle">
-                    <img src="img\FenixEchoBranca.png" alt="" width="100">
-                    <h1>Botões Site</h1>
-                    <h5>Botões Instagram</h5>
-                    <h5>Botões Linkedin</h5>
-                    <h5>Botões Github</h5>
-                    <h5>Botões whatsapp</h5>
+                <div class=" m-auto mt-5">
+                    <img src="img\FenixEchoRoxa.png" alt="" width="100">
+                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-earth"></i> Faça já seu orçamento.</button></a></h1>
+                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-linkedin"></i> Linkedin</button></a></h1>
+                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-instagram"></i> Instagram</button></a></h1>
+                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-github"></i> GitHub</button></a></h1>
+                    <h1><a href="https://wa.me/message/AQSI3RMOO6DVL1" class="decoration-none"> <button class="btn btn-outline-light rounded-pill"><i class="fab fa-whatsapp"></i> WhatsApp</button></a></h1>
+            
 
                 </div>
 
